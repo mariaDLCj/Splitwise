@@ -136,7 +136,6 @@ function validarTitulo(titulo) {
         correcto = true;
         tituloCampo.classList.remove("datoErroneo");
     } else {
-        // alert("El título no es válido");
         tituloCampo.classList.add("datoErroneo");
 
     }
