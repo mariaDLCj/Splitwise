@@ -1,0 +1,40 @@
+body{
+    background-color: #ececec;
+}
+
+.espacio{
+    margin-top: 5px;
+}
+
+#enviar{
+    width: 100%;
+    height: 30px;
+    border: 1px solid #00797b;
+    background-color: #efffff;
+    color:#0a3f3f;
+    border-radius: 10px;
+    align-content: center;
+    text-align: center;
+}
+
+#enviar:hover{
+    background-color: rgb(32, 131, 134);
+    color: white;
+}
+.accordion-button{
+    background-color:#00797b;
+    color: white;
+    border: 1px solid white;
+}
+.accordion-button:not(.collapsed){
+    background-color:#00797b;
+    color:white;
+    border: 1px solid white;
+}
+
+.datoErroneo{
+    border: 2px solid rgb(233, 108, 108) ;
+}
+
+
+
